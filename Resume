@@ -1,0 +1,103 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <link rel="stylesheet"
+    href="resume.css">
+</head>
+<body>
+    <div class="full">
+        <div class="left">
+            <div class="image">
+                <img src=""
+                style="width:100px; height:100px;">
+            </div>
+            <div class="contact">
+                <h2>contact</h2>
+                <p>
+                    <a>Email ID: nikirautrao1326@gmail.com</a>
+                </p>
+                <p>
+                    <a>Mobile No: 7410010002</a>
+                </p>
+            </div>
+            <div class="skills">
+                <h2>skills</h2>
+                <ul>
+                    <li>
+                        <a>programming language:C,.net</a>
+                    </li>
+                    <li>
+                        <a>froent-end:HTML,CSS,Javascript</a>
+                    </li>
+                    <li>
+                        <a>Database language:SQL,PLSQL</a>
+                    </li>
+                </ul>
+            </div>
+            <div class="language">
+                <h2>Language</h2>
+                <ul>
+                    <li>English</li>
+                    <li>Hindi</li>
+                    <li>Marathi</li>
+                </ul>
+            </div>
+            <div class="Hobbies">
+                <h2>Hobbies</h2>
+                <ul>
+                    <li>Playing cricket</li>
+                    <li>Sketching</li>
+                </ul>
+            </div>
+        </div>
+        <div class="right">
+            <div class="name">
+            </div>
+            <div class="title">
+                <p>Fullstack Developer</p>
+            </div>
+            <div class="summary">
+                <h2>Summary</h2>
+                <p>To learn and function effectively in an organization, constantly upgrade my knowledge and skills and
+                    make a difference in whatever I do
+                </p>
+            </div>
+            <div class="education">
+                <h2>Education</h2>
+                <table>
+                    <tr>
+                        <th>
+                            Examination
+                        </th>
+                        <th>
+                            College/school
+                        </th>
+                        <th>
+                            Board/university
+                        </th>
+                        <th>
+                            Percentage
+                        </th>
+                        <th>
+                            year of passing
+                        </th>
+                    </tr>
+                    <tr>
+                        <td>BE</td>
+                        <td>Rajiv Gandhi College of engineering</td>
+                        <td>SPPU</td>
+                        <td>8.88</td>
+                        <td>2023</td>
+                    </tr>
+                </table>
+            </div>
+            
+            </div>
+        </div>
+    </div>
+    
+</body>
+</html>
